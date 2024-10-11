@@ -15,8 +15,8 @@ function Nav() {
 
   return (<>
     <nav className="bg-[#2c3e50] text-white fixed top-0 inset-x-0 z-50">
-        <div className="container mx-auto p-8 flex flex-wrap justify-between">
-            <div className="flex flex-col lg:flex-row lg:w-full lg:justify-between lg:px-5">
+        <div className="container mx-auto p-5 flex flex-wrap justify-between">
+            <div className="flex flex-col lg:flex-row lg:w-full lg:justify-between lg:items-center lg:px-5">
                 <div className="navLogo font-bold text-[32px] pb-3">
                     <Link to="/home">START FRAMEWORK</Link>
                 </div>

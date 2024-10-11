@@ -6,7 +6,7 @@ function About() {
   return (
     <div className="text-center mx-auto mt-20 py-32 text-white bg-[#1abc9c]">
         <div className="py-10">
-            <h2 className="font-bold text-[40px] py-2">ABOUT COMPONENT</h2>
+            <h2 className="font-bold text-3xl md:text-[40px] py-2 text-nowrap">ABOUT COMPONENT</h2>
             <div className="flex flex-wrap justify-center items-center">
                 <div className="w-20 h-1 bg-white me-3"></div>
                 <i className="fa-solid fa-star"></i>

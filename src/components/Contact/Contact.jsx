@@ -11,7 +11,7 @@ function Contact() {
   return (
     <div className="text-center mx-auto mt-20 py-10 text-[#2c3e50] bg-white">
         <div className="py-5">
-            <h2 className="font-bold text-[40px] py-2">CONATCT SECTION</h2>
+            <h2 className="font-bold text-3xl md:text-[40px] py-2 text-nowrap">CONATCT SECTION</h2>
             <div className="flex flex-wrap justify-center items-center">
                 <div className="w-20 h-1 bg-[#2c3e50] me-3"></div>
                 <i className="fa-solid fa-star"></i>
